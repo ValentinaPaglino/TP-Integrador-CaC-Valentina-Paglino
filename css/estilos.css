@@ -1,0 +1,103 @@
+.ancho {
+    width: 100vw;
+}
+
+
+.navegacion {
+padding-top: 2%;
+padding-bottom: 2%;
+
+}
+
+.codoacodo {
+width: 10%;
+float: left;
+}
+
+.navdrecha {
+    padding-right: 1%;
+   
+}
+
+.parte1 {
+    background-image: url(/img/ba1.jpg);
+    background-size: cover;
+    width: 100vw;
+    
+}
+
+.Comprar {
+float: right;
+margin-left: 1% ;
+width: 15%;
+margin-top: 2%;
+
+}
+
+.orador {
+ float: right;
+ width: 15%;
+ margin-top: 2%;
+}
+
+.contenidoparte1 {
+padding-right: 5%;
+padding-top: 30%;
+padding-bottom: 30%;
+padding-left: 2%;
+width: 100%;
+background-color: rgba(0, 0, 0, 0.8);
+
+}
+
+
+.steve {
+width: 25vw;
+}
+
+.bill {
+  width: 25vw;
+
+}
+
+
+.ada {
+    width: 25vw;
+}
+
+.formulario {
+padding-bottom: 2%;
+
+}
+
+.formnombre {
+width: 22%;
+margin-right: 2%;
+}
+
+.formapellido {    
+width: 22%;
+
+}
+
+.formhablar {
+width: 46%;
+margin-top: 1%;
+}
+
+.recorda {
+    margin-left: 27%;
+}
+
+.enviar {
+background-color: rgb(132, 189, 46);
+border: 0;
+border-radius: 4px;
+color: white;
+width: 46%;
+}
+
+.footer {
+  background-color: rgb(8, 68, 92);
+
+}
