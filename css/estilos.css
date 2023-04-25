@@ -20,7 +20,7 @@ float: left;
 }
 
 .parte1 {
-    background-image: url(/img/ba1.jpg);
+    background-image: url(../img/ba1.jpg);
     background-size: cover;
     width: 100vw;
     
