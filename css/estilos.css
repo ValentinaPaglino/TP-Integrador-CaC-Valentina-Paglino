@@ -29,15 +29,16 @@ float: left;
 .Comprar {
 float: right;
 margin-left: 1% ;
-width: 15%;
+width: 20%;
 margin-top: 2%;
-
+font-size: larger;
 }
 
 .orador {
  float: right;
- width: 30%;
+ width: 20%;
  margin-top: 2%;
+ font-size: larger;
 }
 
 .contenidoparte1 {
